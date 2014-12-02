@@ -11,7 +11,7 @@ public class CountScript : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		timer++;
+		timer+;
 		Debug.Log (timer);
 	
 	}
